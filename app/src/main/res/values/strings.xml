@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dz5</string>
+    <string name="menu">Меню:</string>
+    <string name="margarita">Маргарита</string>
+    <string name="mashroom">Грибная</string>
+    <string name="pepperoni">Пепперони</string>
+    <string name="size">Размер</string>
+    <string name="sizeSmall">Маленькая 20 см</string>
+    <string name="sizeMiddle">Средняя 30 см</string>
+    <string name="sizeLarge">Большая 35 см</string>
+    <string name="Additions">Добавки</string>
+    <string name="adMashroom">Грибы</string>
+    <string name="adCheese">Сыр</string>
+    <string name="adHam">Ветчина</string>
+    <string name="btnNext">Далее</string>
+    <string name="phonenum">Контакты</string>
+    <string name="address">Адреса</string>
+</resources>
